@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PocketPing</string>
+    <string name="notification_channel_name">Reminders</string>
+    <string name="notification_channel_description">PocketPing reminder alerts</string>
+</resources>
